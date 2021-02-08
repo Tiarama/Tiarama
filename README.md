@@ -1,7 +1,7 @@
 ## Kumusta kayong lahat!
 
 #### A professional background in music performance and team management, a passion for coaching and design, a love for all things tech, and a penchant for consuming vast amounts of sushi. 
-#### I'm Craig, and I'm excited to voyage into this world of tech creativity and proud to begin as a Founders and Coders crewmate.
+#### I'm Craig, and I'm excited to voyage into this world of tech creativity and proud to begin as a [Founders and Coders](https://www.foundersandcoders.com/) crewmate.
 
                ^      |    |    |     ^          ^
            ^         )_)  )_)  )_)         ^    
