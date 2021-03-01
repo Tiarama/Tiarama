@@ -13,7 +13,7 @@
             ^^^^      ^^^^     ^^^    ^^
                  ^^^^      ^^^
 
-Check out some of my projects pinned below!
+##### Check out some of my projects pinned below!
 
 > In regards to the title of this file, there is no word for "hello" in Tagalog (my second language) so the common greeting is the equivalent to asking "How are you doing?"
 > You're probably wondering why I'm opening with that since you can't answer me through this Markdown file, but if you've found your way to my GitHub profile then we are probably going to have some correspondence at some point, so I'm looking forward to hearing your answer to that question in person!
