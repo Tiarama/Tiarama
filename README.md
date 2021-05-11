@@ -4,16 +4,16 @@
 
 <br/>
 
-### 🎼  A professional background in music performance and team management,
+### 🎼  A professional background in **Team Management** and **Music Performance**,
 <br/>
 
-### 🎨 A passion for coaching and design,
+### 🎨 A passion for **Coaching** and **Design**,
 <br/>
 
-### 💻 A love for all things tech,
+### 💻 A love for all things **Tech**,
 <br/>
 
-### 🍱 And a penchant for consuming vast amounts of sushi. 
+### 🍱 And a penchant for consuming **Vast Amounts of Sushi**. 
 
 <br/>
 
