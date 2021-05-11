@@ -34,4 +34,4 @@
 
 <br/>
 
-#### <div align="center"> <ins>Check out some of my projects pinned below!</ins> </div>
+#### <div align="center"> Check out some of my projects pinned below! </div>
