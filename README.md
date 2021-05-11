@@ -4,23 +4,24 @@
 
 <br/>
 
-### 🎼  A professional background in **Team Management** and **Music Performance**,
+### 🎼  A professional background in **team management** and **music performance**,
 <br/>
 
-### 🎨 A passion for **Coaching** and **Design**,
+### 🎨 A passion for **coaching** and **design**,
 <br/>
 
-### 💻 A love for all things **Tech**,
+### 💻 A love for all things **tech**,
 <br/>
 
-### 🍱 And a penchant for consuming **Vast Amounts of Sushi**. 
+### 🍱 And a penchant for consuming **vast amounts of sushi**. 
 
 <br/>
 
 
 <br/> 
 
-#### I'm Craig, and I'm excited to voyage into this world of tech creativity and proud to begin as a [Founders and Coders](https://www.foundersandcoders.com/) crewmate.
+### I'm Craig,
+#### and I'm excited to voyage into this world of tech creativity and proud to have begun as a [Founders and Coders](https://www.foundersandcoders.com/) crewmate.
 
                ^      |    |    |     ^          ^
            ^         )_)  )_)  )_)         ^    
