@@ -1,5 +1,6 @@
 
-![glow](https://user-images.githubusercontent.com/54359248/117856381-7480f380-b283-11eb-8ae2-f256fc012ea1.gif)
+![glow-1](https://user-images.githubusercontent.com/54359248/117857942-41d7fa80-b285-11eb-90cb-5ce56cf8c62e.gif)
+
 #### A professional background in music performance and team management, a passion for coaching and design, a love for all things tech, and a penchant for consuming vast amounts of sushi. 
 #### I'm Craig, and I'm excited to voyage into this world of tech creativity and proud to begin as a [Founders and Coders](https://www.foundersandcoders.com/) crewmate.
 
