@@ -1,5 +1,5 @@
-## Kumusta kayong lahat!
 
+![glow](https://user-images.githubusercontent.com/54359248/117856381-7480f380-b283-11eb-8ae2-f256fc012ea1.gif)
 #### A professional background in music performance and team management, a passion for coaching and design, a love for all things tech, and a penchant for consuming vast amounts of sushi. 
 #### I'm Craig, and I'm excited to voyage into this world of tech creativity and proud to begin as a [Founders and Coders](https://www.foundersandcoders.com/) crewmate.
 
