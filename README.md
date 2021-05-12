@@ -4,7 +4,7 @@
 
 <br/>
 
-### 🎼  A professional background in **team management** and **music performance**,
+### 🎼  A professional background in **sales team management** and **music performance**,
 <br/>
 
 ### 🎨 A passion for **coaching** and **design**,
