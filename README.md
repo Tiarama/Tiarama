@@ -5,11 +5,15 @@
 <br/>
 
 ### 🎼  A professional background in **sales team management** and **music performance**
+
 <br/>
 
 ### 🎨 A passion for **coaching** and **design**,
 
+<br/>
+
 ### 💻 A love for all things **tech**
+
 <br/>
 
 ### 🍱 And a penchant for consuming **vast amounts of sushi**
