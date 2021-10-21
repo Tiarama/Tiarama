@@ -23,7 +23,7 @@
 
 <br/> 
 
-### I'm Craig,
+### I'm Alex,
 #### and I'm excited to voyage into this world of tech creativity and proud to have begun as a [Founders and Coders](https://www.foundersandcoders.com/) crewmate.
 
                ^      |    |    |     ^          ^
